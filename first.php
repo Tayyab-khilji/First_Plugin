@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: First Plugin
+Plugin Name: Hello World
 Plugin URI: 
 Description: First of many PLugin's By tayyab 
 Version: 1.0
